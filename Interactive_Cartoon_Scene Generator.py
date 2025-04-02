@@ -1,10 +1,3 @@
-'''
-Suning Hong
-CPSCI 101
-6/11/2024
-Project 3
-'''
-
 import csv
 
 def get_words(line):
