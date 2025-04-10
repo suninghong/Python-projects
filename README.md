@@ -1,4 +1,4 @@
-# 📊 1. Liberal Arts College Data Analysis  
+# 1. Liberal Arts College Data Analysis  
 *HTML Scraping + Matplotlib Visualization*  
 
 ## Overview  
